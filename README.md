@@ -1,2 +1,4 @@
 ## muzexun-blog-math
-Track my student materials mostly about Math, Computer Science and Artificial Intelligence 
+1.My CV
+2.My student materials mostly about Math, Computer Science and Artificial Intelligence 
+3.My book/film reviews
